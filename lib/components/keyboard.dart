@@ -16,9 +16,8 @@ class Keyboard extends StatelessWidget {
       child: Column(
         children: <Widget>[
           ButtonRow([
-            Button(text: 'AC', color: Button.DARK, callback: callback),
+            Button.expanded(text: 'AC', color: Button.DARK, callback: callback),
             Button(text: '%', color: Button.DARK, callback: callback),
-            Button(text: '±', color: Button.DARK, callback: callback),
             Button.operation(text: '/', callback: callback),
           ]),
           ButtonRow([
