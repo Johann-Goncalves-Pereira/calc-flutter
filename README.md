@@ -1,6 +1,13 @@
-# calculator
+# Calc Made In flutter
 
-A new Flutter project.
+My first project made in flutter and from what I see in this project, looks like 
+is a ease language to learn and fun to product.
+
+### The calculator looks like this:
+![photo1631224599](https://user-images.githubusercontent.com/62612685/132768531-5e4d1867-48b2-481b-b321-6d5816b542cb.jpeg)
+
+And you can make any math function. Maybe it has some bugs, but I was just for fun
+and I'm satisfied.
 
 ## Getting Started
 
