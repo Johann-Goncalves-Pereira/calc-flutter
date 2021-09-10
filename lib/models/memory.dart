@@ -87,7 +87,7 @@ class Memory {
       case '-':
         return _buffer[0] - _buffer[1];
       case 'x':
-        return _buffer[0] + _buffer[1];
+        return _buffer[0] * _buffer[1];
       default:
         return _buffer[0];
     }
